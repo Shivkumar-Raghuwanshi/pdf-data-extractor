@@ -1,3 +1,7 @@
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/pkbzKx2h1u0/maxresdefault.jpg)](https://www.youtube.com/watch?v=pkbzKx2h1u0)
+
+
 # PDF Data Extractor
 
 The PDF Data Extractor is a Python project that allows you to extract table data from PDF files and insert it into a PostgreSQL database. It also provides functionality to remove duplicate entries from the database and perform various SQL operations on the data.
