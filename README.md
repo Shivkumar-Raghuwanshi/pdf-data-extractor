@@ -1,3 +1,4 @@
+# Watch the PDF Data Extractor video by clicking on the thumbnail below:
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/pkbzKx2h1u0/maxresdefault.jpg)](https://www.youtube.com/embed/pkbzKx2h1u0?si=x9hFrVCdB44NnmZx)
 
