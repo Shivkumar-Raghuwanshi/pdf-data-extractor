@@ -16,6 +16,7 @@ The PDF Data Extractor is a Python project that allows you to extract table data
 - **pdfplumber**: For extracting table data from PDF files.
 - **pandas:** For data manipulation and conversion.
 - **psycopg2:** For interacting with the PostgreSQL database.
+  
 
 4. Set up the PostgreSQL database:
 - Create a new database named koshai.
@@ -24,7 +25,7 @@ conn = psycopg2.connect("dbname=koshai user=your_username password=your_password
 
 ## Usage
 Place the PDF file(s) you want to extract data from in the project directory.
-# Run the main.py script: python main.py
+- Run the main.py script: python main.py
 This will:
 - Extract table data from the PDF file(s)
 - Insert the data into the transactions table in the PostgreSQL database
@@ -33,7 +34,11 @@ This will:
 
 # Files
 **data_extractor.py:** Contains functions to extract table data from PDF files.
+
 **database_utils.py:** Contains functions to interact with the PostgreSQL database.
+
 **main.py:** The main entry point of the application.
+
 **sql_queries.sql:** Contains various SQL queries for data analysis and reporting.
+
 
